@@ -1,2 +1,2 @@
-# CVIP-Calculator
-It is an Internship Project.
+# CVIP-Python-Development
+These are Internship Projects.
